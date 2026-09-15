@@ -1,0 +1,11 @@
+﻿id,first_name,last_name,email,department,salary
+1,Sharad,Patel,sharad.patel@gmail.com,IT,35000
+2,Rahul,Sharma,rahul.sharma@gmail.com,HR,28000
+3,Rohit,Verma,rohit.verma@gmail.com,Sales,25000
+4,Neha,Singh,neha.singh@gmail.com,Finance,42000
+5,Priya,Gupta,priya.gupta@gmail.com,IT,39000
+6,Amit,Mishra,amit.mishra@gmail.com,Marketing,31000
+7,Pooja,Yadav,pooja.yadav@gmail.com,HR,29500
+8,Vikas,Soni,vikas.soni@gmail.com,IT,45000
+9,Anjali,Shukla,anjali.shukla@gmail.com,Finance,47000
+10,Raj,Kumar,raj.kumar@gmail.com,Sales,33000
